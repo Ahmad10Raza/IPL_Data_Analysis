@@ -1,1 +1,5 @@
 # IPL_Data_Analysis
+## **Description:**
+* **The Indian Premier League (IPL) is a professional Twenty20 cricket league in India contested by eight teams. The league was founded by the Board of Control for Cricket in India (BCCI) in 2007. The IPL is the most-popular cricket league in the world; in 2014, it was ranked sixth by average attendance among all sports leagues. In 2010, the IPL became the first sporting event to be broadcast live on YouTube. The brand value of the IPL in 2022 was ₹90,038 crore (US$11 billion). According to BCCI, the 2015 IPL season contributed ₹1,150 crore (US$140 million) to the GDP of the economy of India. In December 2022, the IPL became a decacorn valued at US$10.9 billion, registering a 75% growth in dollar terms since 2020 when it was valued at $6.2 billion, according to a report by consulting firm D & P Advisory.**
+
+* **The IPL is a very popular event in India, with millions of people tuning in to watch the matches. The matches are also broadcast live in other countries around the world. The IPL has helped to popularize cricket in India and around the world, and it has also helped to generate a lot of revenue for the BCCI.**
